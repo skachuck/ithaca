@@ -1,2 +1,4 @@
 *.ipynb
 *.swp
+*.DS_Store
+data/
